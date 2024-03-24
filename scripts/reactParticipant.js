@@ -1,0 +1,4 @@
+/*
+Tenative file for handling participant permissions and functionality
+
+*/

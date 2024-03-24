@@ -1,0 +1,4 @@
+/*
+Tenative file for handling host permissions and functionality
+
+*/

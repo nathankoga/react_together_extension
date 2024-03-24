@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "React Together",
+    "description": "react together prototype",
+    "version": "0.1",
+    "action": {
+        "default_popup": "together.html",
+        "default_icon": "images/hieu.png"
+    }
+}
